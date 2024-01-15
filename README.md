@@ -5,7 +5,7 @@
 Autor:
 Fernando Borges Rocha
 
-[![](https://bdta.ufra.edu.br/jspui/retrieve/973a9dae-2058-42ae-930a-8fbba5c5846d)](https://bdta.ufra.edu.br/jspui/retrieve/973a9dae-2058-42ae-930a-8fbba5c5846d)
+[![](https://i.ibb.co/nbnGSCM/973a9dae-2058-42ae-930a-8fbba5c5846d.png)](https://bdta.ufra.edu.br/jspui/retrieve/973a9dae-2058-42ae-930a-8fbba5c5846d)
 
 ---
 #
@@ -40,4 +40,5 @@ Fernando Borges Rocha
  ## Contato:
  
  [![](https://i.ibb.co/bX0sdnX/116340.png)](https://bdta.ufra.edu.br/jspui/retrieve/973a9dae-2058-42ae-930a-8fbba5c5846d) 
+ #
  engfernando.atendimento@gmail.com | Apenas por aqui. 
