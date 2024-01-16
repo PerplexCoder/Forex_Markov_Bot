@@ -19,10 +19,10 @@ Fernando Borges Rocha
 - Cadeia de Markov: Implementa a teoria das cadeias de Markov para modelar estados futuros do mercado. Informa as decisões de negociação com base nas probabilidades calculadas pela cadeia de Markov.
 #
 - Armazenamento de Dados:
--- Utiliza o SQLite para registrar dados das ordens.(Parcialmente Implementado *)
--- Fornece uma estrutura organizada para armazenar informações relevantes, incluindo hora, volume, spread, ponto de entrada, ponto de saída, e o resultado (vitória ou derrota). *
--- Análises Posteriores: Permite uma análise detalhada do histórico de negociações. Possibilita a identificação de padrões, tendências e áreas de melhoria na estratégia de negociação. *
--- Virtualização de Ordens: Oferece a opção de virtualizar ordens, evitando a execução no mercado real. Permite testar estratégias sem impacto financeiro direto.
+- Utiliza o SQLite para registrar dados das ordens.(Parcialmente Implementado *)
+- Fornece uma estrutura organizada para armazenar informações relevantes, incluindo hora, volume, spread, ponto de entrada, ponto de saída, e o resultado (vitória ou derrota). *
+- Análises Posteriores: Permite uma análise detalhada do histórico de negociações. Possibilita a identificação de padrões, tendências e áreas de melhoria na estratégia de negociação. *
+- Virtualização de Ordens: Oferece a opção de virtualizar ordens, evitando a execução no mercado real. Permite testar estratégias sem impacto financeiro direto.
 
 ## Integração com Redes Neurais: 
 
@@ -35,8 +35,7 @@ Fernando Borges Rocha
 
  Este projeto é fornecido "como está" e está sujeito a ajustes e melhorias contínuas. Use-o com cautela e de acordo com suas necessidades específicas.
  
- #
- #
+ 
  ## Contato:
  
  [![](https://i.ibb.co/bX0sdnX/116340.png)](https://bdta.ufra.edu.br/jspui/retrieve/973a9dae-2058-42ae-930a-8fbba5c5846d) 
