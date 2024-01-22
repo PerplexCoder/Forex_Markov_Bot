@@ -22,7 +22,7 @@ Fernando Borges Rocha
 #
 - Armazenamento de Dados:
 - Utiliza o SQLite para registrar dados das ordens.(Parcialmente Implementado *)
-- [![](https://i.ibb.co/7Wm6X0N/database.png)](https://bdta.ufra.edu.br/jspui/retrieve/973a9dae-2058-42ae-930a-8fbba5c5846d) 
+- [![](https://openfinancecorp.com.br/wp-content/uploads/2024/01/database.png)](https://bdta.ufra.edu.br/jspui/retrieve/973a9dae-2058-42ae-930a-8fbba5c5846d) 
 - Fornece uma estrutura organizada para armazenar informações relevantes, incluindo hora, volume, spread, ponto de entrada, ponto de saída, e o resultado (vitória ou derrota). *
 - Análises Posteriores: Permite uma análise detalhada do histórico de negociações. Possibilita a identificação de padrões, tendências e áreas de melhoria na estratégia de negociação. *
 - Virtualização de Ordens: Oferece a opção de virtualizar ordens, evitando a execução no mercado real. Permite testar estratégias sem impacto financeiro direto.
